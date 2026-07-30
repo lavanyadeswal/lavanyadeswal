@@ -30,7 +30,7 @@ An undergraduate Computer Science and Engineering student at Indira Gandhi Delhi
 
 ### Professional Experience
 
-**Copywriting Intern** — *Internshala*
+**Data Analyst Intern** 
 
 * Systematized trend data tracking to author competitive, high-conversion technical communication assets.
 * Optimized digital audience retention mechanics through performance-backed, SEO-friendly framework architectures.
